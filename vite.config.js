@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  base: '/Avocado-Minimarket-Maria-Martinez-Frontend2/',
+  base: '/Avocado-Minimarket-Maria-Martinez-Frontend-2/',
   plugins: [react(), tailwindcss()],
 });
